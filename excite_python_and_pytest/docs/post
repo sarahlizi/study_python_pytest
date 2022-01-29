@@ -1,0 +1,57 @@
+https://www.cnblogs.com/yaoteng/p/11171049.html
+
+post请求（json）
+前言上一篇讲过get请求的参数都在url里，post的请求相对于get请求多了个body部分，本篇就详细讲解下body部分参数的几种形式。
+
+一、body数据类型
+
+常见的post提交数据类型有四种：
+
+1.第一种：application/json：这是最常见的json格式，也是非常友好的深受小伙伴喜欢的一种，如下
+
+{"input1":"xxx","input2":"ooo","remember":false}
+
+ 
+
+2.第二种：application/x-www-form-urlencoded：浏览器的原生 form 表单，如果不设置 enctype 属性，那么最终就会以 application/x-www-form-urlencoded 方式提交数
+
+input1=xxx&input2=ooo&remember=false
+
+ 
+
+3.第三种：multipart/form-data:这一种是表单格式的，数据类型如下
+
+------WebKitFormBoundaryrGKCBY7qhFd3TrwA
+
+Content-Disposition: form-data; name="text"
+
+title
+
+------WebKitFormBoundaryrGKCBY7qhFd3TrwA
+
+Content-Disposition: form-data; name="file"; filename="chrome.png"
+
+Content-Type: image/png
+
+PNG ... content of chrome.png ...
+
+------WebKitFormBoundaryrGKCBY7qhFd3TrwA--
+ 
+
+4.第四种：text/xml:这种直接传的xml格式
+
+<!--?xml version="1.0"?-->
+
+<methodcall>
+
+<methodname>examples.getStateName</methodname>
+
+<params>
+
+<param>
+
+<value><i4>41</i4></value>
+
+</params>
+
+</methodcall>

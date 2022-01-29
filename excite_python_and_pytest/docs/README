@@ -1,0 +1,14 @@
+一、目录和文件说明
+    docs：相关参考文档目录
+    log：日志收集
+    src：
+        commmon:
+        config:
+        Data:
+        services:对应工程配置文件地址
+            工程名称文件夹
+                模块名称.py
+    testcase：
+        工程名称文件夹
+            模块名称
+                Test+接口名称.py

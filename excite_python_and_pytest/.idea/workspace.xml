@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7dedcc7a-a6bc-479b-b615-d2f439158db0" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/.idea/excite_python_and_pytest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/get" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/post" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/pytest框架介绍" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/pytest自动化测试框架.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/envConfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/GongChengMingCheng/MoKuaiMingCheng.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/.coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/autoUI/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/autoUI/testDemoAuto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/code/.coveragerc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/code/cau.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/code/test_conver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/example/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/example/test_logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/example/test_pytest_mark_xfail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/example/test_pytest_xfail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/example/test_slowTest_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/学习包/study_chengcai/demo_dbutils/DBUtils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/学习包/study_chengcai/demo_dbutils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/学习包/study_chengcai/demo_dbutils/demoDBUtils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/学习包/study_chengcai/demo_dbutils/testDBUtils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/学习包/study_chengcai/demo_flask/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/学习包/study_chengcai/demo_flask/demoFlaskLogin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/学习包/study_chengcai/demo_flask/demoFlaskRegister.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/学习包/study_chengcai/demo_request/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/学习包/study_chengcai/demo_request/demoRequestsHttp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/学习包/study_chengcai/demo_request/demoRequestsJson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/学习包/study_chengcai/demo_request/demoRequestsNone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/学习包/study_chengcai/demo_request/demoRequestsRel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/学习包/小滴课堂/登录页面.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/学习包/风变编程/第一关.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/学习包/风变编程/第零关.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/官方文档_练习/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/官方文档_练习/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/算法/冒泡排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/算法/递归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kuangjia_pytest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kuangjia_pytest/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kuangjia_pytest/.idea/kuangjia_pytest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kuangjia_pytest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kuangjia_pytest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kuangjia_pytest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kuangjia_pytest/testCase/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="python pytest test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1zUy9FGivVVVceCrQ6ITTiiLPZe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/code" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="excite_python_and_pytest" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="excite_python_and_pytest" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python_local\test_study\excite_python_and_pytest\testcase\test_csdn_theRodeOfTest\code" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python_local\test_study\excite_python_and_pytest\testcase\test_csdn_theRodeOfTest" />
+      <recent name="D:\python_local\test_study\excite_python_and_pytest\testcase\test_csdn_theRodeOfTest\code" />
+      <recent name="D:\python_local\test_study\excite_python_and_pytest\testcase\test_csdn_theRodeOfTest\example" />
+      <recent name="D:\python_local\test_study\excite_python_and_pytest\testcase\学习包" />
+      <recent name="D:\python_local\test_study\excite_python_and_pytest\testcase\极客时间" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python 测试.pytest for testDemoAuto.TestAllure">
+    <configuration name="第零关" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="excite_python_and_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/学习包/风变编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/学习包/风变编程/第零关.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="递归" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="excite_python_and_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/算法/递归.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="冒泡排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="excite_python_and_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/算法/冒泡排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="递归" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="excite_python_and_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/算法/递归.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="冒泡排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="excite_python_and_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/算法/冒泡排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cau" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="excite_python_and_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/code/cau.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="excite_python_and_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\python_local\test_study\excite_python_and_pytest\testcase\test_csdn_theRodeOfTest\run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for testDemoAuto.TestAllure" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="excite_python_and_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/autoUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testDemoAuto.TestAllure&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_conver.Test_cover" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="excite_python_and_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_conver.Test_cover&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in testDemoAuto.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="excite_python_and_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/autoUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/autoUI/testDemoAuto.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_conver.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="excite_python_and_pytest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/test_csdn_theRodeOfTest/code/test_conver.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python 测试.pytest for testDemoAuto.TestAllure" />
+        <item itemvalue="Python 测试.pytest in testDemoAuto.py" />
+        <item itemvalue="Python.cau" />
+        <item itemvalue="Python 测试.pytest in test_conver.py" />
+        <item itemvalue="Python 测试.pytest for test_conver.Test_cover" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Sarah\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7dedcc7a-a6bc-479b-b615-d2f439158db0" name="Default Changelist" comment="" />
+      <created>1634216808032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634216808032</updated>
+    </task>
+    <task id="LOCAL-00001">
+      <created>1634216851081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634216851081</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="805" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1643270337012">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="805" y="340" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1643270337012" />
+    <state x="340" y="0" key="#冒泡排序" timestamp="1635640031629">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="340" y="0" key="#冒泡排序/0.0.1280.720@0.0.1280.720" timestamp="1635640031629" />
+    <state x="340" y="0" key="#递归" timestamp="1636256374465">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="340" y="0" key="#递归/0.0.1280.720@0.0.1280.720" timestamp="1636256374465" />
+    <state x="845" y="401" key="#通知" timestamp="1643202966986">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="845" y="401" key="#通知/0.0.1920.1080@0.0.1920.1080" timestamp="1643202966986" />
+    <state x="739" y="281" key="FileChooserDialogImpl" timestamp="1643201974611">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1643201974611" />
+    <state width="1899" height="457" key="GridCell.Tab.0.bottom" timestamp="1643359405723">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="457" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1643359405723" />
+    <state width="1899" height="457" key="GridCell.Tab.0.center" timestamp="1643359405723">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="457" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1643359405723" />
+    <state width="1899" height="457" key="GridCell.Tab.0.left" timestamp="1643359405723">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="457" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1643359405723" />
+    <state width="1899" height="457" key="GridCell.Tab.0.right" timestamp="1643359405723">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="457" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1643359405723" />
+    <state width="1899" height="363" key="GridCell.Tab.1.bottom" timestamp="1643075154242">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1643075154242" />
+    <state width="1899" height="363" key="GridCell.Tab.1.center" timestamp="1643075154242">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1643075154242" />
+    <state width="1899" height="363" key="GridCell.Tab.1.left" timestamp="1643075154242">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1643075154242" />
+    <state width="1899" height="363" key="GridCell.Tab.1.right" timestamp="1643075154242">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1643075154242" />
+    <state x="616" y="247" key="SettingsEditor" timestamp="1643427911306">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="142" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1635640787039" />
+    <state x="616" y="247" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1643427911306" />
+    <state x="660" y="138" width="599" height="804" key="find.popup" timestamp="1643360666573">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="660" y="138" width="599" height="804" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1643360666573" />
+    <state x="433" y="219" key="scopes" timestamp="1635640780763">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="433" y="219" key="scopes/0.0.1280.720@0.0.1280.720" timestamp="1635640780763" />
+    <state x="616" y="192" width="672" height="676" key="search.everywhere.popup" timestamp="1643269116610">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="192" width="672" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1643269116610" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/算法/递归.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/算法/递归.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/算法/递归.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/算法/冒泡排序.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
