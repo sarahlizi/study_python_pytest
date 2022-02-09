@@ -11,8 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7dedcc7a-a6bc-479b-b615-d2f439158db0" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/docs/selenium实现窗口切换" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/定位软键盘——练习.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/定位软键盘——练习.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/envConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/envConfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/GongChengMingCheng/MoKuaiMingCheng.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/GongChengMingCheng/MoKuaiMingCheng.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/手机网站/fourteen.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/手机网站/fourteen.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +69,7 @@
       <recent name="D:\python_local\test_study\excite_python_and_pytest\testcase\极客时间" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.定位软键盘——练习">
+  <component name="RunManager" selected="Python.fourteen">
     <configuration name="定位软键盘——练习" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="excite_python_and_pytest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,9 +225,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fourteen" />
         <item itemvalue="Python.定位软键盘——练习" />
         <item itemvalue="Python 测试.pytest for test2.test_one" />
-        <item itemvalue="Python.fourteen" />
         <item itemvalue="Python 测试.pytest for fourteen.TestDefaultSuite" />
         <item itemvalue="Python 测试.pytest for testDemoAuto.TestAllure" />
       </list>
@@ -255,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643447810027</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Default Changelist">
+      <created>1644314048052</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644314048052</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,14 +286,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="805" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1643270337012">
+    <state x="805" y="340" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1644397540999">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="805" y="340" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1643270337012" />
-    <state x="715" y="241" key="#xdebugger.evaluate" timestamp="1644312298000">
+    <state x="805" y="340" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1644397540999" />
+    <state x="710" y="152" width="1146" height="597" key="#xdebugger.evaluate" timestamp="1644372589472">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="715" y="241" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1644312298000" />
+    <state x="710" y="152" width="1146" height="597" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1644372589472" />
     <state x="340" y="0" key="#递归" timestamp="1636256374465">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -296,46 +306,46 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="739" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1644221535475" />
-    <state width="1899" height="363" key="GridCell.Tab.0.bottom" timestamp="1644312269236">
+    <state width="1899" height="363" key="GridCell.Tab.0.bottom" timestamp="1644374976879">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1644312269236" />
-    <state width="1899" height="363" key="GridCell.Tab.0.center" timestamp="1644312269236">
+    <state width="1899" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1644374976879" />
+    <state width="1899" height="363" key="GridCell.Tab.0.center" timestamp="1644374976879">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="363" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1644312269236" />
-    <state width="1899" height="363" key="GridCell.Tab.0.left" timestamp="1644312269236">
+    <state width="1899" height="363" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1644374976879" />
+    <state width="1899" height="363" key="GridCell.Tab.0.left" timestamp="1644374976879">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="363" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1644312269236" />
-    <state width="1899" height="363" key="GridCell.Tab.0.right" timestamp="1644312269236">
+    <state width="1899" height="363" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1644374976879" />
+    <state width="1899" height="363" key="GridCell.Tab.0.right" timestamp="1644374976879">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="363" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1644312269236" />
-    <state width="1899" height="363" key="GridCell.Tab.1.bottom" timestamp="1644312270566">
+    <state width="1899" height="363" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1644374976879" />
+    <state width="1899" height="363" key="GridCell.Tab.1.bottom" timestamp="1644374976879">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1644312270566" />
-    <state width="1899" height="363" key="GridCell.Tab.1.center" timestamp="1644312270566">
+    <state width="1899" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1644374976879" />
+    <state width="1899" height="363" key="GridCell.Tab.1.center" timestamp="1644374976879">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1644312270566" />
-    <state width="1899" height="363" key="GridCell.Tab.1.left" timestamp="1644312270566">
+    <state width="1899" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1644374976879" />
+    <state width="1899" height="363" key="GridCell.Tab.1.left" timestamp="1644374976879">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1644312270566" />
-    <state width="1899" height="363" key="GridCell.Tab.1.right" timestamp="1644312270566">
+    <state width="1899" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1644374976879" />
+    <state width="1899" height="363" key="GridCell.Tab.1.right" timestamp="1644374976879">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1644312270566" />
+    <state width="1899" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1644374976879" />
     <state x="616" y="247" key="SettingsEditor" timestamp="1644311098963">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="616" y="247" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1644311098963" />
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1643447892260">
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1644314070615">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1643447892260" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1644314070615" />
     <state x="773" y="452" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1644199740203">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -381,6 +391,11 @@
           <url>file://$PROJECT_DIR$/docs/定位软键盘——练习.py</url>
           <line>27</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcase/手机网站/fourteen.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

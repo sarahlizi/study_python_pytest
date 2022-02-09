@@ -1,0 +1,52 @@
+最近在项目中做页面自动化测试时，进行页面跳转时，发现了新弹出窗口大致分为以下几类
+
+1.alert弹窗（包含以下三类alert、confirm、prompt对话框）
+①定位到alert
+python：driver.switch_to.alert
+java： driver.switchTo().alert()
+
+②点击接受
+python：alert.accept()
+java： alert.accept()
+
+③点击拒绝
+python：alert.dismiss()
+java： alert.dismiss()
+
+④获取弹出框内容
+python：alert.text
+java： alert.getText()
+
+⑤仅有prompt类型的可以使用
+python：alert.send_keys()
+java： sendKeys()
+
+2.window窗口切换
+java实现：
+获取当前窗口句柄getWindowHandle()
+获取所有窗口的句柄getWindowHandles()
+切换到相应窗口switchTo().window(“窗口的句柄”)
+python实现：
+获取当前窗口句柄
+windowNow = driver.current_window_handle
+获得打开的所有的窗口句柄
+windows = driver.window_handles
+切换到最新的窗口
+for current_window in windows:
+
+if current_window != windowNow :     driver.switch_to.window(current_window)
+3.切换到页面元素类型为iframe类型的
+python实现：
+driver.switch_to.frame('iframeID')
+Java实现：
+driver.switchTo().frame("iframeID");
+
+4.弹出窗还是div类型的（线程休眠等待页面元素加载即可）
+python实现：
+time.sleep()
+Java实现：
+thread.sleep（）
+以上是我目前遇到的窗口切换。不足之处请多多指教！
+————————————————
+版权声明：本文为CSDN博主「%九思%」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/w1018200226/article/details/103367480

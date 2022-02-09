@@ -1,9 +1,9 @@
 import pytest
 import json
 import requests
-from src.common.envConfig import DemoPostUrl
-#header参数配置
-headerParams="application/x-www-form-urlencoded"
+from src.common.envConfig import *
+
+
 
 #接口地址配置
 demoPostUrl=DemoPostUrl #+'.json'

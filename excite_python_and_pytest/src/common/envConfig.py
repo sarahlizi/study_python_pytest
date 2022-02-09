@@ -1,4 +1,5 @@
-
+#header参数配置
+headerParams="application/x-www-form-urlencoded"
 
 #配置服务器的IP地址或者域名
 WeaHost='http://wthrcdn.etouch.cn'
